@@ -1,4 +1,4 @@
-# MailTime
+# Mail~Time
 Arduino-powered laser mail detection project
 
 
