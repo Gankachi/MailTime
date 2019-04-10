@@ -11,4 +11,4 @@ Computer Engineering Graduate Student
 
 [Timothy Anderson](https://github.com/Timothy-Anders0n)
 
-Physics graduate Student
+Physics Graduate Student
