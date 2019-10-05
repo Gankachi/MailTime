@@ -5,7 +5,7 @@ Arduino-powered laser mail detection project
 # Team
 [Kévin Cuallado-Keltsch](https://github.com/Gankachi)
 
-Computer Engineering Graduate Student	
+Computer Engineering	
 
 <br>
 
